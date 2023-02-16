@@ -1,5 +1,5 @@
 # Muminul Hoque
-<img src="./image/me.jpg" width="200" title="profile Image">
+<img src="./Image/me.jpg" width="200" title="profile Image">
 
 _Hacker-Rank Basic C Problem_ <br/>
 ## _____Solve_____:
