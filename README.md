@@ -2,7 +2,7 @@
 <img src="./Image/me.jpg" width="200" title="profile Image">
 
 _Hacker-Rank Basic C Problem_ <br/>
-## _____Solve_____:
+## _____Solve_____: <br/>
 
 ---
 **Bold text** <br>
