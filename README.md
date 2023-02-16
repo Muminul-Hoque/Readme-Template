@@ -35,11 +35,11 @@ int main()
 |   Muminul Hoque   |   muminul@gmail.com   |
 ## Connect With Me 
 ### _IN_
-[facebook][fb] [Youtube][Yt] [Linked in][LN]
 
 
 <!--links are here -->
-[fb]:(http://www.facebook.com)
-[Yt]:(http://www.youtube.com)
-[LN]:(http://www.linkedin.com)
+[facebook](http://www.facebook.com)
+[Youtube](http://www.youtube.com)
+[Linked in](http://www.linkedin.com)
 
+
